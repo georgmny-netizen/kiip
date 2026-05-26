@@ -1,0 +1,23 @@
+# Зависимости Node.js (устанавливаются через npm install)
+**/node_modules/
+
+# Папки сборки
+**/dist/
+**/build/
+
+# Временные кэш-файлы Vite
+**/.vite/
+
+# Логи ошибок
+*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Системные файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Исходные тяжелые PDF-файлы (не нужны для работы сайта, превышают лимиты GitHub в 100MB)
+sources/
+"Basic Understanding of Korean Society"/
